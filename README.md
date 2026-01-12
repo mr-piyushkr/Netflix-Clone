@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karlhadwen/netflix-clone/master/public/netflix-background.jpg" width="100%" />
+  <img src="./public/netflix-background.jpg" alt="Netflix Banner" width="100%" />
 </p>
-
 
 <h1 align="center">🎬 Netflix Clone</h1>
 
@@ -61,16 +60,17 @@ Clicking on any movie opens its **official YouTube trailer**, giving users a tru
 ---
 
 ## 🗂️ Folder Structure
-
+```
 src/
+│
 ├── App.js → Main application layout
 ├── Banner.js → Netflix hero banner
 ├── Row.js → Movie rows
 ├── Nav.js → Navigation bar
-├── requests.js → API endpoints
+├── requests.js → TMDB API endpoints
 ├── axios.js → Axios instance
 └── *.css → Styling files
-
+```
 ---
 
 ## 🔑 API Setup
