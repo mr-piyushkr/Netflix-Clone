@@ -24,6 +24,10 @@ It fetches **real-time movie data** from **TMDB** and allows users to browse thr
 
 Clicking on any movie opens its **official YouTube trailer**, giving users a true streaming-app feel.
 
+🔗 GitHub Repo: [Link](https://github.com/mr-piyushkr/Netflix-Clone.git)
+
+🌐 Live Demo: [Link](https://netflix-clone-kcsx.vercel.app/)
+
 ---
 
 ## ✨ Key Features
